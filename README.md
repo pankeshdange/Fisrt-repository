@@ -1,2 +1,4 @@
 # Fisrt-repository
-This is my fisrt repository file,,,
+This is my first repository file,,,
+Pankesh dange is the owner of this file,
+
